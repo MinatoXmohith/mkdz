@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>MKDZ — Mohith, Graphic Designer</title>
+  <meta name="description" content="Mohith (MKDZ) — graphic designer and brand strategist from India. Branding, visual identity, packaging, posters and marketing direction.">
+  <meta name="theme-color" content="#1f3a2b">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Caveat:wght@500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- 1. Boot sequence -->
+  <section id="boot" aria-label="Loading">
+    <div class="boot-inner">
+      <p class="boot-cmd"><span class="dim">$</span> mkdz render <span class="hl">--studio mohith</span> --mode loud</p>
+      <div class="pen">
+        <svg viewBox="0 0 600 120" preserveAspectRatio="none" aria-hidden="true">
+          <path class="pen-guide" d="M0 119.5 H600" />
+          <path class="pen-path" d="M4 96 C 70 96, 70 30, 150 34 S 230 100, 300 74 S 390 12, 450 28 S 540 80, 596 60" />
+          <g class="pen-anchors">
+            <rect x="0" y="92" width="8" height="8"/><rect x="146" y="30" width="8" height="8"/>
+            <rect x="296" y="70" width="8" height="8"/><rect x="446" y="24" width="8" height="8"/>
+            <rect x="592" y="56" width="8" height="8"/>
+          </g>
+        </svg>
+        <div class="pen-meta"><span>pen tool</span><span id="bootInk">0.0%</span></div>
+      </div>
+      <ul class="boot-log" id="bootLog"></ul>
+      <p class="boot-stat" id="bootStat">layer 0/412 · 0 posters · coffee 100%</p>
+      <div class="boot-bar">
+        <div class="boot-bar-head"><span id="bootLabel">PRINTING</span><span id="bootPct">0%</span></div>
+        <div class="boot-cells" id="bootCells"></div>
+      </div>
+      <div class="boot-actions" id="bootActions">
+        <button class="btn-solid" data-enter="sound">Enter with sound</button>
+        <button class="btn-ghost" data-enter="quiet">Enter quietly</button>
+      </div>
+      <p class="boot-skip">press any key to skip</p>
+    </div>
+  </section>
+
+  <!-- 2. The studio desk -->
+  <main id="studio" aria-label="MKDZ studio desk">
+    <div id="viewport" tabindex="0" aria-label="Design desk. Drag or use arrow keys to look around.">
+      <div id="desk"></div>
+    </div>
+
+    <div class="hud hud-top">
+      <div class="clock"><span class="dot"></span><span id="clock">--:--</span> IST · India</div>
+      <div class="hud-tools">
+        <div class="zoom">
+          <button id="zoomOut" aria-label="Zoom out">−</button>
+          <button id="zoomIn" aria-label="Zoom in">+</button>
+        </div>
+        <div class="menu-wrap">
+          <button id="menuBtn" class="menu-btn" aria-haspopup="true" aria-expanded="false" aria-label="Menu"><i></i><i></i><i></i><i></i></button>
+          <div class="menu" id="menu" role="menu" hidden>
+            <button role="menuitem" data-act="sound">Sound: <b id="soundState">off</b></button>
+            <button role="menuitem" data-act="shuffle">Shuffle the desk</button>
+            <button role="menuitem" data-act="home">Back to centre</button>
+            <button role="menuitem" data-act="intro">Replay intro</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="hud hud-id">
+      <strong>MOHITH <span>/ MKDZ</span></strong>
+      <small><span class="dot"></span> Graphic designer · India</small>
+    </div>
+
+    <div class="hint" id="hint">
+      <span class="hint-arrows">‹ <span class="mouse"><i></i></span> ›</span>
+      drag to look around
+    </div>
+
+    <nav class="dock" aria-label="Main">
+      <button data-open="work"><em>01</em> Work</button>
+      <button data-open="services"><em>02</em> Services</button>
+      <button data-open="about"><em>03</em> About</button>
+      <button data-open="contact"><em>04</em> Contact</button>
+    </nav>
+
+    <div class="minimap" id="minimap" aria-hidden="true"><div class="mm-view" id="mmView"></div></div>
+
+    <div id="windows"></div>
+  </main>
+
+  <div id="lightbox" class="lightbox" hidden aria-modal="true" role="dialog" aria-label="Image viewer">
+    <button class="lb-close" aria-label="Close">×</button>
+    <button class="lb-nav lb-prev" aria-label="Previous">←</button>
+    <figure>
+      <img alt="">
+      <figcaption>
+        <div><strong class="lb-title"></strong> <span class="lb-sub"></span></div>
+        <div class="lb-variants"></div>
+        <span class="lb-count"></span>
+      </figcaption>
+    </figure>
+    <button class="lb-nav lb-next" aria-label="Next">→</button>
+  </div>
+
+  <div class="cursor-tag" id="cursorTag" aria-hidden="true"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,926 @@
+[
+ {
+  "name": "green-lanterns",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/green lanterns.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "superman-11",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/superman 11.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "green-lantern-2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/green lantern 2.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "reddd-copy",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/reddd_ copy.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "sept-cal",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/sept cal.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "ithaca",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/ithaca.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "chainsaw-man",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/chainsaw man.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "late",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/late.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "your-name1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/your name1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "bleach",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/bleach.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "tim-cook",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/tim cook.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "steve-jobs",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/Steve Jobs.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "chainsaw-man-vid-p",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/chainsaw man vid p.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "free",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/free?.jpeg",
+  "w": 5200,
+  "h": 6221,
+  "lg": [
+   1505,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "nine-lives",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/nine lives.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "nine-lives-crew",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/NINE LIVES CREW.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "mcqueen",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/MCQUEEN.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "ben10",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/ben10.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "doom-1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/doom 1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "doom",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/doom.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "we-dont-fear",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/we dont fear.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "f4",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/f4.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "dc-2026",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/dc 2026.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "vinland-saga",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/vinland saga.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "heat-teat",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/heat teat.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "heat-teat1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/heat teat1.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "heat-teat2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/heat teat2.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "rush-hour",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/rush hour.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "city-crew",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/city crew.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "city-crew1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/city crew1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "city-crew2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/city crew2.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "weekend",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/weekend.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "soloris1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/soloris1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "gto",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/GTO.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "gto-1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/GTO.1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "gto-2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/GTO.2.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "gto-3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/GTO.3.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "frame-56",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/Frame 56.png",
+  "w": 1080,
+  "h": 1350,
+  "lg": [
+   1080,
+   1350
+  ],
+  "err": null
+ },
+ {
+  "name": "frame-109",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/Frame 109.png",
+  "w": 1080,
+  "h": 1350,
+  "lg": [
+   1080,
+   1350
+  ],
+  "err": null
+ },
+ {
+  "name": "last-vigil1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/LAST VIGIL1.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "last-vigil2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/LAST VIGIL2.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "last-vigil3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/LAST VIGIL3.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "free-fall1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/free fall1.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "free-fall2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/free fall2.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "free-fall3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/free fall3.png",
+  "w": 2000,
+  "h": 2000,
+  "lg": [
+   1800,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "daydream",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/daydream.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "daydream1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/daydream1.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "daydream2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/daydream2.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "daydream3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/daydream3.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "eminence-in-shadow1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/eminence in shadow1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "eminence-in-shadow2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/eminence in shadow2.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "eminence-in-shadow3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/eminence in shadow3.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "chess-q1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/chess q1.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "chess-q2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/chess q2.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "chess-q3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/chess q3.png",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "akira",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/AKIRA.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "akira1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/AKIRA1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "akira3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/AKIRA3.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "akira2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/AKIRA2.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "akira4",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/AKIRA4.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "frame-114",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/Frame 114.png",
+  "w": 1080,
+  "h": 1350,
+  "lg": [
+   1080,
+   1350
+  ],
+  "err": null
+ },
+ {
+  "name": "green-lantern-dc",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/green lantern dc.jpg",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "clayface",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/clayface.jpg",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "clayface1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/clayface1.png",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "clayface-copy",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/clayface copy.jpg",
+  "w": 5200,
+  "h": 7200,
+  "lg": [
+   1300,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "digger-movie",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/digger movie_.jpg",
+  "w": 7200,
+  "h": 5200,
+  "lg": [
+   1800,
+   1300
+  ],
+  "err": null
+ },
+ {
+  "name": "primetime",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/primetime.png",
+  "w": 2494,
+  "h": 1796,
+  "lg": [
+   1800,
+   1296
+  ],
+  "err": null
+ },
+ {
+  "name": "batman-111",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/batman 111.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "batman-122",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/batman 122.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "friday-13th-v1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/friday 13th v1.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "friday-13th-v2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/friday 13th v2.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "penguin",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/penguin.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "penguin-v1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/penguin v1.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "penguin-v2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/penguin v2.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "godzilla",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/godzilla.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "godzilla-v1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/godzilla v1.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "rewind",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/rewind.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "needle-drop",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/needle drop.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ },
+ {
+  "name": "sukuna-jjk",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/sukuna jjk.jpg",
+  "w": 5400,
+  "h": 3600,
+  "lg": [
+   1800,
+   1200
+  ],
+  "err": null
+ },
+ {
+  "name": "sukuna-jjk1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/sukuna jjk1.jpg",
+  "w": 5400,
+  "h": 3600,
+  "lg": [
+   1800,
+   1200
+  ],
+  "err": null
+ },
+ {
+  "name": "domain-clash2",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/domain clash2.jpg",
+  "w": 5400,
+  "h": 3600,
+  "lg": [
+   1800,
+   1200
+  ],
+  "err": null
+ },
+ {
+  "name": "domain-clash1",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/domain clash1.jpg",
+  "w": 5400,
+  "h": 3600,
+  "lg": [
+   1800,
+   1200
+  ],
+  "err": null
+ },
+ {
+  "name": "domain-clash3",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/domain clash3.jpg",
+  "w": 5400,
+  "h": 3600,
+  "lg": [
+   1800,
+   1200
+  ],
+  "err": null
+ },
+ {
+  "name": "last-knightvnine-lives-crew",
+  "src": "/Users/mohithreddykotamreddy/MKDZINER/Posters/last knightvnine lives crew.jpg",
+  "w": 3600,
+  "h": 5400,
+  "lg": [
+   1200,
+   1800
+  ],
+  "err": null
+ }
+]
