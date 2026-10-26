@@ -9,12 +9,11 @@ window.MKDZ = {
   role: "Graphic designer",
   location: "India",
   since: 2024,
-  // TODO: put your real contact email here
-  email: "hello@yourdomain.com",
+  email: "hello@mkdzstudio.store",
   socials: [
     { label: "Instagram", url: "https://instagram.com/mk_dziner" },
-    { label: "Behance", url: "#" },
-    { label: "LinkedIn", url: "#" },
+    { label: "Behance", url: "https://www.behance.net/mohithreddy14" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/kotamreddy-mohithreddy/" },
   ],
 
   /* Posters made in the last two months. `v` = colourways (first is the cover). */
